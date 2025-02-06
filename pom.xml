@@ -28,9 +28,9 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>2.7.9</version> <!-- Add version here -->
+                <version>2.7.9</version>
                 <configuration>
-                    <!-- Add this line to specify the main class -->
+
                     <mainClass>com.example.employeeapi.Main</mainClass>
                 </configuration>
             </plugin>
